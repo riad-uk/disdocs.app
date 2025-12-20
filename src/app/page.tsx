@@ -382,9 +382,9 @@ export default function Home() {
               <span className="font-bold">DisDocs</span>
             </div>
             <div className="flex gap-6 text-sm text-zinc-400">
-              <a href="#" className="hover:text-white">Privacy Policy</a>
+              <a href="/privacy-policy" className="hover:text-white">Privacy Policy</a>
               <a href="#" className="hover:text-white">Terms of Service</a>
-              <a href="#" className="hover:text-white">Support</a>
+              <a href="/contact" className="hover:text-white">Support</a>
             </div>
             <p className="text-sm text-zinc-500">© 2024 DisDocs. All rights reserved.</p>
           </div>
