@@ -238,7 +238,7 @@ export default function PrivacyPolicy() {
             </Link>
             <div className="flex gap-6 text-sm text-zinc-400">
               <Link href="/privacy-policy" className="hover:text-white">Privacy Policy</Link>
-              <a href="#" className="hover:text-white">Terms of Service</a>
+              {/* <a href="#" className="hover:text-white">Terms of Service</a> */}
               <a href="#" className="hover:text-white">Support</a>
             </div>
             <p className="text-sm text-zinc-500">© 2024 DisDocs. All rights reserved.</p>
